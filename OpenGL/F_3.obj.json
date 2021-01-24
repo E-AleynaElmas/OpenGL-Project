@@ -1,0 +1,207 @@
+{
+  "created_at": "2021-01-05T02:23:25.719347",
+  "version": "0.1",
+  "mtllibs": [
+    "F_3.mtl"
+  ],
+  "vertex_buffers": [
+    {
+      "material": "Eyelashes",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 0,
+      "byte_length": 193536
+    },
+    {
+      "material": "Fingernails",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 193536,
+      "byte_length": 445440
+    },
+    {
+      "material": "Toenails",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 638976,
+      "byte_length": 445440
+    },
+    {
+      "material": "Cornea",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 1084416,
+      "byte_length": 49152
+    },
+    {
+      "material": "Pupils",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 1133568,
+      "byte_length": 24576
+    },
+    {
+      "material": "Face",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 1158144,
+      "byte_length": 1219584
+    },
+    {
+      "material": "Lips",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 2377728,
+      "byte_length": 130560
+    },
+    {
+      "material": "Teeth",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 2508288,
+      "byte_length": 829440
+    },
+    {
+      "material": "Sclera",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 3337728,
+      "byte_length": 147456
+    },
+    {
+      "material": "Ears",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 3485184,
+      "byte_length": 333312
+    },
+    {
+      "material": "Irises",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 3818496,
+      "byte_length": 73728
+    },
+    {
+      "material": "Legs",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 3892224,
+      "byte_length": 2664960
+    },
+    {
+      "material": "Torso",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 6557184,
+      "byte_length": 2373120
+    },
+    {
+      "material": "EyeSocket",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 8930304,
+      "byte_length": 86016
+    },
+    {
+      "material": "EyeMoisture",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 9016320,
+      "byte_length": 273408
+    },
+    {
+      "material": "Mouth",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 9289728,
+      "byte_length": 751104
+    },
+    {
+      "material": "Arms",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 10040832,
+      "byte_length": 3015168
+    },
+    {
+      "material": "A_Back",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 13056000,
+      "byte_length": 1472256
+    },
+    {
+      "material": "A_BackInner",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 14528256,
+      "byte_length": 129024
+    },
+    {
+      "material": "A_Back_Sides",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 14657280,
+      "byte_length": 129024
+    },
+    {
+      "material": "A_Back_Strands",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 14786304,
+      "byte_length": 258048
+    },
+    {
+      "material": "A_Top",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 15044352,
+      "byte_length": 225408
+    },
+    {
+      "material": "A_Strands",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 15269760,
+      "byte_length": 258048
+    },
+    {
+      "material": "Scalp",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 15527808,
+      "byte_length": 217344
+    },
+    {
+      "material": "A_Hair",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 15745152,
+      "byte_length": 1756416
+    },
+    {
+      "material": "LeftGlove",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 17501568,
+      "byte_length": 1640832
+    },
+    {
+      "material": "RightGlove",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 19142400,
+      "byte_length": 1640832
+    },
+    {
+      "material": "Sash",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 20783232,
+      "byte_length": 1613760
+    },
+    {
+      "material": "Top",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 22396992,
+      "byte_length": 1838592
+    },
+    {
+      "material": "Skirt",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 24235584,
+      "byte_length": 4359552
+    },
+    {
+      "material": "Leaves",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 28595136,
+      "byte_length": 269568
+    },
+    {
+      "material": "FlowerPetals",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 28864704,
+      "byte_length": 14006784
+    },
+    {
+      "material": "FlowerStems",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 42871488,
+      "byte_length": 7578624
+    }
+  ]
+}

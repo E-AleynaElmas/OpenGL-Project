@@ -1,0 +1,174 @@
+newmtl Eyelashes
+d 0.94999999
+Kd 0.23921569 0.14901961 0
+map_D /ConvertedMaps/BarbaraEemandjoLashes3Deli_1006.tif
+
+newmtl Fingernails
+d 1
+Kd 1 1 1
+map_Kd /Maps/BarbaraemandjoArms_1004.jpg
+
+newmtl Toenails
+d 1
+Kd 1 1 1
+map_Kd /Maps/BarbaraemandjoLegs_1003.jpg
+
+newmtl Cornea
+d 0
+Kd 1 1 1
+
+newmtl Pupils
+d 1
+Kd 1 1 1
+map_Kd /Maps/BarbaraemandjoEyes01_1007.jpg
+
+newmtl Face
+d 1
+Kd 1 1 1
+map_Kd /Maps/BarbaraemandjoHead_1001.jpg
+
+newmtl Lips
+d 1
+Kd 1 1 1
+map_Kd /Maps/BarbaraemandjoHead_1001.jpg
+
+newmtl Teeth
+d 1
+Kd 1 1 1
+map_Kd /Maps/BarbaraemandjoMouth_1005.jpg
+
+newmtl Sclera
+d 1
+Kd 1 1 1
+map_Kd /Maps/BarbaraemandjoSclera_1007.jpg
+
+newmtl Ears
+d 1
+Kd 1 1 1
+map_Kd /Maps/BarbaraemandjoHead_1001.jpg
+
+newmtl Irises
+d 1
+Kd 1 1 1
+map_Kd /Maps/BarbaraemandjoEyes01_1007.jpg
+
+newmtl Legs
+d 1
+Kd 1 1 1
+map_Kd /Maps/BarbaraemandjoLegs_1003.jpg
+
+newmtl Torso
+d 1
+Kd 1 1 1
+map_Kd /Maps/BarbaraemandjoTorso_1002.jpg
+
+newmtl EyeSocket
+d 1
+Kd 1 0.87058824 0.8509804
+map_Kd /Maps/BarbaraemandjoEyeSocket_1001.jpg
+
+newmtl EyeMoisture
+d 0
+Kd 1 1 1
+
+newmtl Mouth
+d 1
+Kd 1 1 0.94901961
+map_Kd /Maps/BarbaraemandjoMouth_1005.jpg
+
+newmtl Arms
+d 1
+Kd 1 1 1
+map_Kd /Maps/BarbaraemandjoArms_1004.jpg
+
+newmtl A_Back
+d 1
+Kd 1 1 1
+map_Kd /Maps/SW_SW_Oa_C13.jpg
+map_D /ConvertedMaps/SWAM_HR17_16_Z_A_TR.tif
+
+newmtl A_BackInner
+d 1
+Kd 1 1 1
+map_Kd /Maps/SW_SW_Oa_C13.jpg
+map_D /ConvertedMaps/SWAM_HR17_16_Z_A_TR.tif
+
+newmtl A_Back_Sides
+d 1
+Kd 1 1 1
+map_Kd /Maps/SW_SW_Oa_C13.jpg
+map_D /ConvertedMaps/SWAM_HR17_16_Z_A_TR.tif
+
+newmtl A_Back_Strands
+d 1
+Kd 1 1 1
+map_Kd /Maps/SW_SW_Oa_C13.jpg
+map_D /ConvertedMaps/SWAM_HR17_16_Z_A_TR.tif
+
+newmtl A_Top
+d 1
+Kd 1 1 1
+map_Kd /Maps/SW_SW_Oa_C13.jpg
+map_D /ConvertedMaps/SWAM_HR17_16_Z_A_TR.tif
+
+newmtl A_Strands
+d 1
+Kd 1 1 1
+map_Kd /Maps/SW_SW_Oa_C13.jpg
+map_D /ConvertedMaps/SWAM_HR17_16_Z_A_TR.tif
+
+newmtl Scalp
+d 1
+Kd 1 1 1
+map_Kd /Maps/SW_SW_Oa_C13.jpg
+map_D /ConvertedMaps/SWAM_HR17_16_Base.tif
+
+newmtl A_Hair
+d 1
+Kd 1 1 1
+map_Kd /Maps/SW_SW_Oa_C13.jpg
+map_D /ConvertedMaps/SWAM_HR17_16_Z_A_TR.tif
+
+newmtl LeftGlove
+d 1
+Kd 1 1 1
+map_Kd /Maps/AHB_MFairy_Gloves_01.jpg
+map_D /ConvertedMaps/AHB_MFairy_Gloves_01TR.tif
+
+newmtl RightGlove
+d 1
+Kd 1 1 1
+map_Kd /Maps/AHB_MFairy_Gloves_01.jpg
+map_D /ConvertedMaps/AHB_MFairy_Gloves_01TR.tif
+
+newmtl Sash
+d 1
+Kd 0.85882354 0.85882354 0.85882354
+map_Kd /Maps/AHB_MFairy_Dress_01.jpg
+map_D /ConvertedMaps/AHB_MFairy_Dress_01TR.tif
+
+newmtl Top
+d 1
+Kd 1 1 1
+map_Kd /Maps/AHB_MFairy_Dress_01.jpg
+
+newmtl Skirt
+d 1
+Kd 1 1 1
+map_Kd /Maps/AHB_MFairy_Dress_01.jpg
+
+newmtl Leaves
+d 1
+Kd 1 1 1
+map_Kd /Maps/AHB_MFairy_Dress_01.jpg
+
+newmtl FlowerPetals
+d 1
+Kd 1 1 1
+map_Kd /Maps/AHB_MFairy_Dress_01.jpg
+
+newmtl FlowerStems
+d 1
+Kd 1 1 1
+map_Kd /Maps/AHB_MFairy_Dress_01.jpg
+
